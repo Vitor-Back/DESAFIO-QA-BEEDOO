@@ -59,7 +59,8 @@ Para que eu possa excluí-los se necessário
     - **ENTÃO** curso deve se excluído da listagem 
     - **E** apresentar mensagem 'Curso excluído com sucesso!'
 
-
+## Metodologia 
+*Foi utilizada a metodologia do BDD para planejamento e report dos bugs com uso do Gherkin para escrita dos casos de teste*
 ## Links
 
 1. Planilha de teste - https://l1nk.dev/dBGw2
